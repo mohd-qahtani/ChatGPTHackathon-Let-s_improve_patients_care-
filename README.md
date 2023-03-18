@@ -1,4 +1,3 @@
-```python
 # <p><strong>Let’s improve patients care!</strong></p>
 
 
